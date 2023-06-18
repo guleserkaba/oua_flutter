@@ -54,28 +54,33 @@ Takım F-68
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı screenshotları:
-![Backlog 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp1.png) 
-![Backlog 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp2.png) 
-![Backlog 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp3.png)
-![Backlog 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp4.png) 
-![Backlog 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp5.png) 
-![Backlog 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp6.png)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Haftalık olarak da Discord'tan konuşulmaya karar verilmiştir.
+- Daily Scrum toplantısı screenshotları:
+![ss 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp1.png) 
+![ss 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp2.png) 
+![ss 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp3.png)
+![ss 4](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp4.png) 
+![ss 5](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp5.png) 
+![ss 6](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp6.png)
+
+- Weekly Scrum toplantısı screenshotları:
+![ss 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/dc.png) 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![Backlog 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/miro.png) 
+![Backlog 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/miro1.png) 
+![Backlog 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/miro2.png)
+![Backlog 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/miro3.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+  ![Screenshot 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/app2.jpeg)
+  ![Screenshot 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/app3.jpeg)
+  ![Screenshot 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/app.jpeg)
 
 - **Sprint Review**: 
-Alınan kararlar: Arayüzde birkaç değişiklik yapmaya ve en kısa sürede kod kısmına geçmeye karar verilmiştir. Bu sprintte eksik kalan yerler önümüzde diğer sprintlere uygun şekilde dağıtılmaya karar verilmiştir. Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Arayüzde birkaç değişiklik yapmaya ve en kısa sürede kod kısmına geçmeye karar verilmiştir. Bu sprintte eksik kalan yerler önümüzde diğer sprintlere uygun şekilde dağıtılmaya karar verilmiştir. 
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Kod için ayrılan efor/saat arttırılmalı 
 
