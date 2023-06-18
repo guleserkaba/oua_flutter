@@ -58,6 +58,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp1.png) 
 ![Backlog 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp2.png) 
 ![Backlog 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp3.png)
+![Backlog 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp4.png) 
+![Backlog 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp5.png) 
+![Backlog 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp6.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
