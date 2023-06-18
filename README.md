@@ -73,9 +73,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/miro3.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/app2.jpeg)
-  ![Screenshot 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/app3.jpeg)
-  ![Screenshot 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/app.jpeg)
+
+![SS 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/app2.jpeg) 
+![SS 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/app3.jpeg) 
+![SS 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/app.jpeg)
+
+
+
 
 - **Sprint Review**: 
 Alınan kararlar: Arayüzde birkaç değişiklik yapmaya ve en kısa sürede kod kısmına geçmeye karar verilmiştir. Bu sprintte eksik kalan yerler önümüzde diğer sprintlere uygun şekilde dağıtılmaya karar verilmiştir. 
@@ -84,5 +88,4 @@ Alınan kararlar: Arayüzde birkaç değişiklik yapmaya ve en kısa sürede kod
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Kod için ayrılan efor/saat arttırılmalı 
 
--**Diğer Notlar**:
-- N/A
+
