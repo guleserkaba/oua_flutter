@@ -54,19 +54,8 @@ Takım F-68
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Haftalık olarak da Discord'tan konuşulmaya karar verilmiştir. Daily ve weekly Scrum toplantısı ekran görüntüleri word dosyası içinde Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/FurkanPolatt/Vivace_Dinle_ve_ogren/blob/master/ProjectManagement/DailyScrumChatNotesSprint1.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Haftalık olarak da Discord'tan konuşulmaya karar verilmiştir. Daily ve weekly Scrum toplantısı ekran görüntüleri word dosyası içinde Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/Sprint1_daily.docx)
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Haftalık olarak da Discord'tan konuşulmaya karar verilmiştir.
-- Daily Scrum toplantısı screenshotları:
-![ss 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp1.png) 
-![ss 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp2.png) 
-![ss 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp3.png)
-![ss 4](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp4.png) 
-![ss 5](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp5.png) 
-![ss 6](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/wp6.png)
-
-- Weekly Scrum toplantısı screenshotları:
-![ss 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/dc.png) 
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/miro.png) 
