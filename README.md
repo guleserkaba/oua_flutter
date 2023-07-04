@@ -21,13 +21,14 @@ Takım F-68
 ## Ürün Açıklaması
 
 
-- HighPow uygulamamız ile hayvanlara bağış yapılabilmesini, hayvan sahiplendirilmesini ve sahiplenilebilmesini sağlayacağız. Ekonomik açıdan durumu el veren hayvanseverler, hayvanlar için bağışta bulunacaklar ve ekonomik açıdan hayvan sahiplenmesi mümkün olmayan ama hayvan sahiplenmek isteyen hayvanseverler bağışlar sayesinde hayvan sahiplenebilecekler. Kullanıcılar, hayvanseverlerin veterinerlerin yardım havuzuna yaptığı bağışlar sayesinde anlaşmalı veterinerlerden hayvan sahiplenilebilecek. Ve sahiplenen ailelerin evcil hayvanları bu veterinerden yapılan bağışlar sayesinde aşı mama gibi ihtiyaçları karşılayabilecekler. uygulamamız sayesinde evinde zaten hayvan besleyen ya da daha fazla hayvanın sahiplendirilmesini isteyen hayvanseverler, maddi açıdan hayvan besleyemeyen hayvanseverlerin evcil hayvan sahibi olmasını sağlayacak. Daha fazla hayvanın artık bir ailesi olacak.  
+- HighPow uygulamamız ile ihtiyaç sahibi hayvan sahiplerine tek seferlik bağış yapılabilmesini sağlayacağız. Uygulamamızda aylık türe göre ortalama bir ihtiyaç bedeli belirlenecek ve her ihtiyaç sahibinin o ay aldığı tutar ve kalan ihtiyacı görüntülenebilecek. Uygulama hesabında yardımlar birikip ilgili ihtiyaç sahiplerine manuel ulaştırılacak şekilde kurgulanmıştır.
 
+  
 ## Ürün Özellikleri
-
-- Hayvanların profilini gösteren bir sayfa sayesinde, hayvan sahiplenmek isteyen insanlar onları görebilecekler
-- Bağış yapmak isteyen ve hayvan sahiplenmek isteyenler için ayrı giriş sayfaları
-- Veterinerlerin sahiplendirilecek hayvan profili oluşturması için bir sayfa
+- Gönüllüler bakımlarını üstlendikleri hayvanları türü, cinsi, adı, karne ve profil resimleriyle ekleyebilecekler
+- İhtiyacı en fazla olandan en aza olana göre sıralayacağımız sistem sayesinde hayvan sahiplerine doğru sırayla yardım ulaşabilecek.
+- Uygulamamızda aylık türe göre ortalama bir ihtiyaç bedeli belirlenecek ve bu doğrultuda bağışlar yapılacak
+- Uygulama hesabında yardımlar birikip ilgili ihtiyaç sahiplerine manuel ulaştırılacak şekilde kurgulanmıştır.
   
 
 ## Hedef Kitle
@@ -79,19 +80,19 @@ Alınan kararlar: Arayüzde birkaç değişiklik yapmaya ve en kısa sürede kod
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Kod için ayrılan efor/saat arttırılmalı
 
-# Sprint 1
+# Sprint 2
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 90 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi. Bu sprintte ise 90 puanlık iş yükü ayırdık ve sonuç olarak son sprinte 130 puan ayırmış bulunmaktayız.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Haftalık olarak da Discord'tan konuşulmaya karar verilmiştir. Daily ve weekly Scrum toplantısı ekran görüntüleri word dosyası içinde Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/Sprint1_daily.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily ve weekly Scrum toplantısı ekran görüntüleri word dosyası içinde Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/Sprint1_daily.docx)
 
 
 - **Sprint board update**: Sprint board screenshotları: 
@@ -110,10 +111,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 - **Sprint Review**: 
-Alınan kararlar: Arayüzde birkaç değişiklik yapmaya ve en kısa sürede kod kısmına geçmeye karar verilmiştir. Bu sprintte eksik kalan yerler önümüzde diğer sprintlere uygun şekilde dağıtılmaya karar verilmiştir. 
+Alınan kararlar: Uygulamada sadeleştirmeye ve arayüzde ve renk seçiminde değişikliğe gidilmeye karar verildi ve dolayısıyla ürün açıklaması ve ürün özelliklerinde birkaç değişiklik yapıldı. İlk iki sprintte eksik kalan yerler son sprinte kaldığı için koda odaklanılması gerektiğine karar verilmiştir. Uygulama ismi PawsomeHome'dan HighPaw'e çevrilmeye karar verildi.
 
 - **Sprint Retrospective:**
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Kod için ayrılan efor/saat arttırılmalı 
+  - Projeyi tamamlayabilmek için koda ayrılan efor/saat arttırılmalı 
 
 
