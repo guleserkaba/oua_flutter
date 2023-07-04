@@ -92,20 +92,20 @@ Alınan kararlar: Arayüzde birkaç değişiklik yapmaya ve en kısa sürede kod
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily ve weekly Scrum toplantısı ekran görüntüleri word dosyası içinde Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/Sprint1_daily.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily ve weekly Scrum toplantısı ekran görüntüleri word dosyası içinde Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/Sprint2_daily.docx)
 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/miro.png) 
-![Backlog 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/miro1.png) 
-![Backlog 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/miro2.png)
-![Backlog 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/miro3.png)
+![Backlog 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/bl1.png) 
+![Backlog 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/bl2.png) 
+![Backlog 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/bl3.png)
+![Backlog 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/bl4.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
-![SS 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/app2.jpeg) 
-![SS 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/app3.jpeg) 
-![SS 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/app.jpeg)
+![SS 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/hp1.jpeg) 
+![SS 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/hp2.jpeg) 
+![SS 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/hp3.jpeg)
 
 
 
