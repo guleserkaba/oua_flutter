@@ -21,7 +21,7 @@ Takım F-68
 ## Ürün Açıklaması
 
 
-- HighPow uygulamamız ile ihtiyaç sahibi hayvan sahiplerine tek seferlik bağış yapılabilmesini sağlayacağız. Uygulamamızda aylık türe göre ortalama bir ihtiyaç bedeli belirlenecek ve her ihtiyaç sahibinin o ay aldığı tutar ve kalan ihtiyacı görüntülenebilecek. Uygulama hesabında yardımlar birikip ilgili ihtiyaç sahiplerine manuel ulaştırılacak şekilde kurgulanmıştır.
+- HighPaw uygulamamız ile ihtiyaç sahibi hayvan sahiplerine tek seferlik bağış yapılabilmesini sağlayacağız. Uygulamamızda aylık türe göre ortalama bir ihtiyaç bedeli belirlenecek ve her ihtiyaç sahibinin o ay aldığı tutar ve kalan ihtiyacı görüntülenebilecek. Uygulama hesabında yardımlar birikip ilgili ihtiyaç sahiplerine manuel ulaştırılacak şekilde kurgulanmıştır.
 
   
 ## Ürün Özellikleri
