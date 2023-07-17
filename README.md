@@ -115,6 +115,43 @@ Alınan kararlar: Uygulamada sadeleştirmeye ve arayüzde ve renk seçiminde de�
 
 - **Sprint Retrospective:**
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Projeyi tamamlayabilmek için koda ayrılan efor/saat arttırılmalı 
+  - Projeyi tamamlayabilmek için koda ayrılan efor/saat arttırılmalı
+
+# Sprint 3
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 130 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi. İkinci sprintte ise 90 puanlık iş yükü ayırdık ve sonuç olarak bu sprinte 130 puan ayırmış bulunmaktayız.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily ve weekly Scrum toplantısı ekran görüntüleri word dosyası içinde Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/Sprint3_daily.docx)
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/guleserkaba/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/mr1.png) 
+![Backlog 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/mr2.png) 
+![Backlog 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/mr3.png)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+![SS 1](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/u1.jpeg) 
+![SS 2](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/u2.jpeg) 
+![SS 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/u3.jpeg)
+![SS 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/u4.jpeg)
+![SS 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/u5.jpeg)
+![SS 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/u6.jpeg)
+![SS 3](https://github.com/aardaisenkul/oua_flutter/blob/main/ProjectManagement/Sprint1Documents/u7.jpeg)
+
+
+
+
+- **Sprint Review**: 
+Alınan kararlar: Uygulamada sadeleştirmeye ve arayüzde ve renk seçiminde değişikliğe gidilmeye karar verildi ve dolayısıyla ürün açıklaması ve ürün özelliklerinde birkaç değişiklik yapıldı. İlk iki sprintte eksik kalan yerler son sprinte kaldığı için koda odaklanılması gerektiğine karar verilmiştir. Uygulama ismi PawsomeHome'dan HighPaw'e çevrilmeye karar verildi.
 
 
